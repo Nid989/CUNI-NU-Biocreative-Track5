@@ -31,6 +31,8 @@ def parse_args(args, **kwargs):
     args.device = 'cuda' if torch.cuda.is_available() and kwargs.no_cuda else 'cpu'
     if args.device == 'cuda':
         args.no_gpus = -1
+    else:
+        args.no_gpus = 0
     return args
 
 def load_config_data(file_path):
