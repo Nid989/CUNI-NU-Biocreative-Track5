@@ -87,6 +87,8 @@ def train(args):
 
 if __name__ == "__main__":
 
+    print('cuda' if torch.cuda.is_available() else 'cpu')
+
     parser = argparse.ArgumentParser(description='Train model')
     parser.add_argument('--config', default='settings\config.yml', help='path to yaml config file', type=argparse.FileType('r'))
     parser.add_argument('--data', default='dataset\data\litcovid_dataset.csv', type=str, help='path to dataset csv file')
