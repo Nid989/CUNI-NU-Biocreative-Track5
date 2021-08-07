@@ -22,7 +22,7 @@ from transformers.tokenization_utils_base import LARGE_INTEGER
 
 from utils import *
 
-data = Munch(load_config_data('settings\config.yml'))
+data = Munch(load_config_data('settings/config.yml'))
 
 class TopicAnnotationDataset(Dataset):
 
