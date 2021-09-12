@@ -1,0 +1,9 @@
+BERT_MODEL_NAME: bert-base-cased
+
+N_EPOCHS: 10
+
+BATCH_SIZE: 4
+
+MAX_TOKEN_COUNT: 512
+
+LABEL_COLUMNS: ["Case Report", "Diagnosis", "Epidemic Forecasting", "Mechanism", "Prevention", "Transmission", "Treatment"]
