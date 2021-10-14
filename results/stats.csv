@@ -1,0 +1,8 @@
+﻿Team submissions stats,Label-based macro precision,Label-based macro recall,Label-based macro  f1,Label-based micro precision,Label-based micro recall,Label-based micro  f1,Instance-based precision,Instance-based recall,Instance-based f1
+Mean,0.8670,0.8012,0.8191,0.8967,0.8624,0.8778,0.8985,0.8887,0.8931
+Std,0.0609,0.0794,0.0701,0.0541,0.0482,0.0429,0.0521,0.0451,0.0460
+Q1,0.8463,0.7545,0.7651,0.8803,0.8452,0.8541,0.8699,0.8619,0.8668
+Median,0.8835,0.8383,0.8527,0.9108,0.8843,0.8925,0.9188,0.9097,0.9132
+Q3,0.9079,0.8555,0.8670,0.9251,0.8964,0.9083,0.9353,0.9192,0.9254
+,,,,,,,,,
+Baseline (ML-Net),0.8364,0.7309,0.7655,0.8756,0.8142,0.8437,0.8849,0.8514,0.8678

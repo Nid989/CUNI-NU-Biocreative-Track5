@@ -1,0 +1,6 @@
+team,submit_id,submit_file,label-based micro avg precision,label-based micro avg recall,label-based micro avg f1,label-based macro avg precision,label-based macro avg recall,label-based macro avg f1,instance-based precision,instance-based recall,instance-based f1
+Bhavsar,BC7_submission_33,PubMedBERT_LWAN,0.8324,0.9007,0.8652,0.7472,0.8904,0.8047,0.8756,0.9232,0.8988
+Bhavsar,BC7_submission_31,dual_bert_Ensemble,0.9018,0.8764,0.8889,0.8554,0.8631,0.8570,0.9203,0.9046,0.9124
+Bhavsar,BC7_submission_32,specter_LWAN,0.9079,0.8673,0.8871,0.8617,0.8476,0.8478,0.9015,0.8898,0.8956
+Bhavsar,BC7_submission_50,CovidSciBERT_LWAN,0.9071,0.8205,0.8616,0.8938,0.8003,0.8409,0.8708,0.8448,0.8576
+Bhavsar,BC7_submission_73,specter_dual_att,0.9199,0.8731,0.8959,0.8824,0.8589,0.8673,0.9295,0.9016,0.9153
