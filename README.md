@@ -30,5 +30,7 @@ Below we have attached the evaluation results of proposed system on the official
 
 ## Contributors
 
-2. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
-3. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
+1. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
+2. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
+3. Muskaan Singh (Faculty of Mathematics and Physics Charles University, Czech Republic): singh@ufal.mff.cuni.cz
+4. Tirthankar Ghosal (Oak Ridge National Laboratory, US): tghosal@acm.org
