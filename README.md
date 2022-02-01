@@ -23,4 +23,9 @@ The rapid growth of biomedical literature makes manual curation and interpretati
 
 The paper describes use of a novel method of combining SPECTER embeddings, dual-attention, and a Label-wise-Attention mechanism (SPECTER-DualAtt-LWAN). The main advantage of spectre over other pretrained models is that it can be easily applied to downstream applications without the need for task-specific finetuning and it generates embeddings based on a paper’s title and abstract. Furthermore SPECTER understands bio-medical data because it has been trained on scientific corpora. These benefits of SPECTER made it a perfect choice for this task. Moreover, applying dual attention and LWAN helps model understand the interconnectivity between input sequences as well as establishing a relationship to output lables. For more information [click here](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/TRACK5_pos_5_BC7_submission_188.pdf)
 
+## Results
+
+Below we have attached the evaluation results of proposed system on the official test data.
+![image](https://user-images.githubusercontent.com/75028682/151985101-4c62b966-f21b-4b5f-856c-06772a6ca2d7.png)
+
 
