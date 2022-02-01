@@ -11,13 +11,13 @@ The rapid growth of biomedical literature makes manual curation and interpretati
 
 | Topic                 |  Count  |
 |-----------------------|:-------:|
-| prevention            |  45669  |
-| treatment             |  38588  |
-| diagnosis             |  27965  |
-| mechanism             |  18782  |     
-| case report           |  8696   |
-| transmission          |  4409   |
 | epidemic forecasting  |  2048   |
+| transmission          |  4409   |     
+| case report           |  8696   |
+| mechanism             |  18782  |
+| diagnosis             |  27965  |
+| treatment             |  38588  |
+| prevention            |  45669  |
 
 ## Model Description
 
