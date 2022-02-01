@@ -28,4 +28,7 @@ The paper describes use of a novel method of combining SPECTER embeddings, dual-
 Below we have attached the evaluation results of proposed system on the official test data.
 ![image](https://user-images.githubusercontent.com/75028682/151985101-4c62b966-f21b-4b5f-856c-06772a6ca2d7.png)
 
+## Contributors
 
+2. Aakash Bhatnagar  (Navrachana University, Gujarat, India):  akashbharat.bhatnagar@gmail.com 
+3. Nidhir Bhavsar    (Navrachana University, Gujarat, India):  nidbhavsar989@gmail.com
