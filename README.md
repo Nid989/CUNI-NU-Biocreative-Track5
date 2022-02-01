@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # CUNI-NU-Biocreative-Track5
 Team CUNI-NU at BioCreative VII LitCovid Track: Multi-label Topical Classification of Scientific Articles using SPECTER Embeddings with Dual Attention and Label-Wise Attention Network
 
